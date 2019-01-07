@@ -1,4 +1,4 @@
-# Girflow example
+# Gitflow example
 
 This repository is just a sandbox to try out the gitflow methodology and extension.
 
